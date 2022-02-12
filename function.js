@@ -24,7 +24,7 @@
 		enlace.setAttribute("href", "#");
 		// We add the link (a) to the new task (li)
 		nuevaTarea.appendChild(enlace);
-		// Agregamos la nueva tarea a la lista
+		// We add the link (a) to the new task (li)
 		lista.appendChild(nuevaTarea);
 
 		tareaInput.value = "";
