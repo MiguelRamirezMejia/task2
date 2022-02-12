@@ -5,7 +5,7 @@
 		btnNuevaTarea = document.getElementById("btn-agregar");
   console.log(lista);
 
-	// Funciones
+	// Functions
 	var agregarTarea = function(){
 		var tarea = tareaInput.value,
 			nuevaTarea = document.createElement("li"),
