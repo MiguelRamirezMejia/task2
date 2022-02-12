@@ -22,7 +22,7 @@
 		enlace.appendChild(contenido);
 		// we set an href attribute
 		enlace.setAttribute("href", "#");
-		// Agrergamos el enlace (a) a la nueva tarea (li)
+		// We add the link (a) to the new task (li)
 		nuevaTarea.appendChild(enlace);
 		// Agregamos la nueva tarea a la lista
 		lista.appendChild(nuevaTarea);
