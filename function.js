@@ -20,7 +20,7 @@
 
 		// we add the content to the link
 		enlace.appendChild(contenido);
-		// Le establecemos un atributo href
+		// we set an href attribute
 		enlace.setAttribute("href", "#");
 		// Agrergamos el enlace (a) a la nueva tarea (li)
 		nuevaTarea.appendChild(enlace);
