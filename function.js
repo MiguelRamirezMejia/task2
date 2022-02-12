@@ -45,9 +45,9 @@
 		this.parentNode.removeChild(this);
 	};
 
-	// Eventos
+	// Events
 
-	// Agregar Tarea
+	// Add homework
 	btnNuevaTarea.addEventListener("click", agregarTarea);
 
 	// Comprobar Input
