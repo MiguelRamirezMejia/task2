@@ -18,7 +18,7 @@
 			return false;
 		}
 
-		// Agregamos el contenido al enlace
+		// we add the content to the link
 		enlace.appendChild(contenido);
 		// Le establecemos un atributo href
 		enlace.setAttribute("href", "#");
