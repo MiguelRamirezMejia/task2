@@ -50,7 +50,7 @@
 	// Add homework
 	btnNuevaTarea.addEventListener("click", agregarTarea);
 
-	// Comprobar Input
+	// Check Input
 	tareaInput.addEventListener("click", comprobarInput);
 
 	// Borrando Elementos de la lista
